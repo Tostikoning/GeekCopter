@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.4 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=Quadcopter.map -O0 --gc-sections -LD:\CooCox\CoIDE\configuration\ProgramData\Quadcopter -TD:\CooCox\CoIDE\configuration\ProgramData\Quadcopter/arm-gcc-link.ld -g">
+      <target file="Quadcopter.elf" lastModified="143115829ec">
+         <source file="..\obj\i2c.o" lastModified="143115824ba"/>
+         <source file="..\obj\startup_stm32f10x_md_vl.o" lastModified="143115824f5"/>
+         <source file="..\obj\core_cm3.o" lastModified="14311582541"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="1431158258f"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="143115825f4"/>
+         <source file="..\obj\main.o" lastModified="14311582642"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="143115826b6"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="14311582729"/>
+         <source file="..\obj\misc.o" lastModified="14311582777"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="143115827ed"/>
+      </target>
+   </processor>
+</history>
